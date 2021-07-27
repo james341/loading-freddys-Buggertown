@@ -163,7 +163,7 @@ var l_musicPlaylist = [
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
-	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
+	{ogg: "childrensrequie.ogg", name: "Nations - Installation Music"},
 	{ogg: "booger-town-radio.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 ];
