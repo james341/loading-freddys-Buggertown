@@ -98,28 +98,6 @@ var l_bgImages = [
         "image24.jpg",
         "image25.jpg",
         "image26.jpg",
-        "image27.jpg",
-        "image28.jpg",
-        "image29.jpg",
-        "image30.jpg",
-        "image31.jpg",
-        "image32.jpg",
-        "image33.jpg",
-        "image34.jpg",
-        "image35.jpg",
-        "image36.jpg",
-        "image37.jpg",
-        "image38.jpg",
-        "image39.jpg",
-        "image40.jpg",
-        "image41.jpg",
-        "image42.jpg",
-        "image43.jpg",
-        "image44.jpg",
-        "image45.jpg",
-        "image46.jpg",
-	"image47.jpg",
-	"image48.jpg",
 
 ];
 
@@ -159,15 +137,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Emotion 29.7.ogg", name: "Nations - Installation Music"},
-	{ogg: "spaceoddityds.ogg", name: "Nations - Installation Music"},
-	{ogg: "killerinp.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
-	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
-	{ogg: "childrensrequie.ogg", name: "Nations - Installation Music"},
-	{ogg: "booger-town-radio.ogg", name: "Nations - Installation Music"},
-	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
+	{ogg: "BusyBertieTheme.ogg", name: "Nations - Installation Music"},
+	{ogg: "Seasiderun.ogg", name: "Nations - Installation Music"},
+	{ogg: "sodorradio.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
