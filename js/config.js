@@ -120,6 +120,7 @@ var l_bgImages = [
         "image46.jpg",
 	"image47.jpg",
 	"image48.jpg",
+        "image49.jpg",
 
 ];
 
@@ -166,7 +167,7 @@ var l_musicPlaylist = [
 	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "dsafnewsone.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 ];
 
