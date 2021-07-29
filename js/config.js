@@ -160,14 +160,13 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
-	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
+	{ogg: "Emotion 29.7.ogg", name: "Nations - Installation Music"},
+	{ogg: "booger-town-radio.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
+	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
-	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafnewsone.ogg", name: "Nations - Installation Music"},
+	{ogg: "killerinp.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 ];
 
