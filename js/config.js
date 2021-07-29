@@ -139,6 +139,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "BusyBertieTheme.ogg", name: "Nations - Installation Music"},
 	{ogg: "Thomas'sAnthem.ogg", name: "Nations - Installation Music"},
+	{ogg: "Unused Opening Title Theme.ogg", name: "Nations - Installation Music"},
 	{ogg: "Seasiderun.ogg", name: "Nations - Installation Music"},
 	{ogg: "sodorradio.ogg", name: "Nations - Installation Music"},
 ];
