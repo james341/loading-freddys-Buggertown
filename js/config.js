@@ -160,7 +160,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Emotion 29.7.ogg", name: "Nations - Installation Music"},
+	{ogg: "blindinglights.ogg", name: "Nations - Installation Music"},
 	{ogg: "booger-town-radio.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
@@ -212,9 +212,9 @@ var l_messages = [
         "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and expand!",
         "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "No jokes about mental illnesses, Sexualities, or religions/political stuff. (Ex. Cancer, Autism, Gay, Etc!",
+        "Abide by the New Life Rule (NLR). You have to wait 5 minutes until you can go back to the location you Died!",
         "No concentration Camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated!",
-        "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
+        "Reminder; It is up to the staff member to decide your punishment. It's not always going to be Exact!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
         "No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
