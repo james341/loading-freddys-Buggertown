@@ -160,7 +160,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "soundtrackhotel.ogg", name: "Nations - Installation Music"},
+	{ogg: "lifeinpink.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
 	{ogg: "kevinjayjay.ogg", name: "Nations - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
@@ -203,7 +203,7 @@ var l_messages = [
         "Fear RP is in effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
         "RP is acting out the role of your character within the game. Behave as you would in your character's place in the context of the situation!",
         "You may not destroy your valuables in a raid to prevent them from being stolen. Leaving and then rejoining within 20 minutes to avoid printer loss and get them back is considered FailRP!",
-        "NLR - After your death, you forget everything: those who killed you, whom you knew, the orders that were given to you and where you were. After you have died in a certain location, you can return there after 3 minutes. It is FORBIDDEN to return to the raid / capture / robbery after death. [Punishment: warn / Ban 10-20min]!",
+        "Please No, no-collided bulletproof props. Defenders can jump in and out of them and this action is deemed unfair and prop Abuse!",
         "Moderators reserve the right to punish/warn a user even if something isn't on the rules. (As long as it is fair, obviously!",
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said action!",
         "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
@@ -220,7 +220,7 @@ var l_messages = [
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Jobs that are allowed to perform may play music through their mic just not excessively!"
+        "The rules include RP rules and general community rules. These rules are for all players and will be referred to when disciplinary action is taken against a player!"
 
 ];
 
